@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-### Image linking (from [MIT Technology Review](https://www.technologyreview.com/s/601519/how-to-create-a-malevolent-artificial-intelligence/)
+### Image linking from [MIT Technology Review](https://www.technologyreview.com/s/601519/how-to-create-a-malevolent-artificial-intelligence/)
 ![Image](https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg)
 
 ### Jekyll Themes
